@@ -1,0 +1,18 @@
+{
+  "name": "decoratorsandbox",
+  "version": "1.0.0",
+  "description": "test project for ts decorators",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "redis": "^4.6.5"
+  }
+}
